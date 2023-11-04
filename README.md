@@ -21,6 +21,4 @@ Este aplicativo permite ao usuário inserir um texto e, em seguida, converte-o e
    
 ## Licença 📜
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE.md). Portanto, você pode usá-lo, modificá-lo e distribuí-lo livremente.
-
-Divirta-se com os aplicativos e aproveite a funcionalidade que eles oferecem! 🎉
+Este projeto está sob a licença [Licença MIT](LICENSE).. Portanto, você pode usá-lo, modificá-lo e distribuí-lo livremente.
